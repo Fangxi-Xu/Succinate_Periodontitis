@@ -1,1 +1,1 @@
-# Succinate_Periodontitis
+# Targeting Succinate Receptor Effectively Inhibits Periodontitis
