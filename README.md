@@ -5,4 +5,4 @@ Periodontal disease (PD), one of the most common inflammatory diseases in humans
 # Publication
 
 # Contact
-If any questions please reach out to Fangxi fx363@nyu.edu or Yuqi 
+If any questions please reach out to Fangxi fx363@nyu.edu or Yuqi yg701@nyu.edu.
