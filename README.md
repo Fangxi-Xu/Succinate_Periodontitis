@@ -3,7 +3,7 @@ Periodontal disease (PD) is one of the most common inflammatory diseases in huma
 
 
 ## Organization of this repository
-[*Fig J-L]()
+[*Succinate elevation contributes to periodontitis progression]()
 
 ## Publication
 
