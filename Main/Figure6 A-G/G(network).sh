@@ -10,5 +10,5 @@ module load qiime/intel/1.9.1
 
 make_otu_network.py \
 -i ../biom_table_no_chloroplast/feature-table-no-chloroplast.biom \
--m /scratch/fx363/succinate_perio_rerun/metadata.txt \
+-m ../metadata.txt \
 -o otu_network
