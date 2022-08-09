@@ -5,7 +5,7 @@ Periodontal disease (PD) is one of the most common inflammatory diseases in huma
 ## Organization of this repository
 [*Main Figures](https://github.com/Fangxi-Xu/Succinate_Periodontitis/tree/main/Main)
 
-[*Supplemental Figures]()
+[*Supplemental Figures](https://github.com/Fangxi-Xu/Succinate_Periodontitis/tree/main/Supplemental)
 
 [*input data - phyloseq object]()
 
