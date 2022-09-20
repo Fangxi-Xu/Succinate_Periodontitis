@@ -14,7 +14,10 @@ Periodontal disease (PD) is one of the most common inflammatory diseases in huma
 
 
 ## Publication
-Yuqi Guo, Fangxi Xu, Scott C. Thomas, Yanli Zhang, Bidisha Paul, Satish Sakilam, Sungpil Chae, Patty Li, Caleb Almeter, Angela R. Kamer, Paramjit Arora, Dana T. Graves, Deepak Saxena, Xin Li,Targeting the succinate receptor effectively inhibits periodontitis,Cell Reports,Volume 40, Issue 12,2022,111389,ISSN 2211-1247,https://doi.org/10.1016/j.celrep.2022.111389.(https://www.sciencedirect.com/science/article/pii/S2211124722012268)
+Yuqi Guo, Fangxi Xu, Scott C. Thomas, Yanli Zhang, Bidisha Paul, Satish Sakilam, Sungpil Chae, Patty Li, Caleb Almeter, Angela R. Kamer, Paramjit Arora, Dana T. Graves, Deepak Saxena, Xin Li,Targeting the succinate receptor effectively inhibits periodontitis,Cell Reports,Volume 40, Issue 12,2022,111389,ISSN 2211-1247,https://doi.org/10.1016/j.celrep.2022.111389.
+
+(https://www.sciencedirect.com/science/article/pii/S2211124722012268)
+
 Keywords: succinate; SUCNR1; periodontitis; bone loss; inflammation; microbiome; therapeutics
 
 ## Contact
